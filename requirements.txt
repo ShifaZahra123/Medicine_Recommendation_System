@@ -1,6 +1,3 @@
-sudo apt-get install python3-distutils
-sudo yum install python3-distutils
-pip install --upgrade pip
 Flask==2.3.2
 numpy==1.24.2
 pandas==2.1.0
